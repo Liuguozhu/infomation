@@ -1,7 +1,7 @@
 ####  [java编程思想(第四版)](https://coding.net/s/cfe4b71c-f0bd-4fb5-bf04-4bc1c0b3be1b)
 ####  [java常用算法手册](https://coding.net/s/9f1eda0a-f208-4d06-b83c-99a56748ea1e)
 ####  [编写高质量代码：改善Java程序的151个建议](https://coding.net/s/346608fd-1bce-4f5c-a4ca-889e3a7e123f)
-####  [深入理解Java虚拟机[JVM高级特性与最佳实践](周志明)](https://coding.net/s/e99d73b2-efbd-4284-9def-339613147cf1)
+####  [深入理解Java虚拟机\[JVM高级特性与最佳实践\](周志明)](https://coding.net/s/e99d73b2-efbd-4284-9def-339613147cf1)
 ####  [Java必须知道的300个问题](周志明)](https://coding.net/s/1a69a99a-b800-43b1-8ca9-f8bf3124e831)
 ####  [JDK 9，变化与未来-范学雷](https://coding.net/s/96a5b3e3-758a-479d-b32a-0d2e45f6fb81)
 ####  [SPRING技术内幕__深入解析SPRING架构与设计原理](https://coding.net/s/cfbafb17-d70d-41f5-a29b-c1f3ba09b154)
