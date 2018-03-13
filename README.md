@@ -15,4 +15,6 @@
 
 [前端](/前端/web.md)
 
+[数据库](/数据库/database.md)
+
 [hacker](/hacker/hacker.md)
